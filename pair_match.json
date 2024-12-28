@@ -1,6 +1,6 @@
 {
 "success": 1,
-    "data":[{
+"data":[{
   "stone id" : "C1604-5C",
   "LINK" : "IND",
   "COMPNY" : "AI",
@@ -24,9 +24,9 @@
   "RATIO" : 2.85,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 10.76,
-  "WIDTH" : 3.78,
-  "HEIGHT" : 1.69
+  "Length" : 10.76,
+  "Width" : 3.78,
+  "Height" : 1.69
 },
 {
   "stone id" : "F407-11B",
@@ -52,9 +52,9 @@
   "RATIO" : 1.41,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 4,
-  "WIDTH" : 2.83,
-  "HEIGHT" : 1.76
+  "Length" : 4,
+  "Width" : 2.83,
+  "Height" : 1.76
 },
 {
   "stone id" : "C2019-85A",
@@ -80,9 +80,9 @@
   "RATIO" : 2.64,
   "SHADE" : "NONE",
   "KEY" : "Feather",
-  "LENGTH" : 10.11,
-  "WIDTH" : 3.83,
-  "HEIGHT" : 2.27
+  "Length" : 10.11,
+  "Width" : 3.83,
+  "Height" : 2.27
 },
 {
   "stone id" : "H23-773A",
@@ -108,9 +108,9 @@
   "RATIO" : 3.02,
   "SHADE" : "NONE",
   "KEY" : "Feather, Pinpoint, Natural, Extra Facet",
-  "LENGTH" : 12.54,
-  "WIDTH" : 4.15,
-  "HEIGHT" : 2.48
+  "Length" : 12.54,
+  "Width" : 4.15,
+  "Height" : 2.48
 },
 {
   "stone id" : "F405-12A",
@@ -136,9 +136,9 @@
   "RATIO" : 1.4,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 5.64,
-  "WIDTH" : 4.03,
-  "HEIGHT" : 2.86
+  "Length" : 5.64,
+  "Width" : 4.03,
+  "Height" : 2.86
 },
 {
   "stone id" : "C3010-56A",
@@ -164,9 +164,9 @@
   "RATIO" : 1.38,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 4.95,
-  "WIDTH" : 3.6,
-  "HEIGHT" : 2.26
+  "Length" : 4.95,
+  "Width" : 3.6,
+  "Height" : 2.26
 },
 {
   "stone id" : "F125-1032A",
@@ -192,9 +192,9 @@
   "RATIO" : 1.54,
   "SHADE" : "NONE",
   "KEY" : "Feather",
-  "LENGTH" : 5.48,
-  "WIDTH" : 3.55,
-  "HEIGHT" : 2.42
+  "Length" : 5.48,
+  "Width" : 3.55,
+  "Height" : 2.42
 },
 {
   "stone id" : "F304-155A",
@@ -220,9 +220,9 @@
   "RATIO" : 1.53,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 6.26,
-  "WIDTH" : 4.1,
-  "HEIGHT" : 2.16
+  "Length" : 6.26,
+  "Width" : 4.1,
+  "Height" : 2.16
 },
 {
   "stone id" : "F502-74A",
@@ -248,9 +248,9 @@
   "RATIO" : 2.53,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 6.92,
-  "WIDTH" : 2.73,
-  "HEIGHT" : 1.71
+  "Length" : 6.92,
+  "Width" : 2.73,
+  "Height" : 1.71
 },
 {
   "stone id" : "F268-62A",
@@ -276,9 +276,9 @@
   "RATIO" : 1.36,
   "SHADE" : "NONE",
   "KEY" : "Indented Natural, Manufacturing Remnant, Feather",
-  "LENGTH" : 5.66,
-  "WIDTH" : 4.16,
-  "HEIGHT" : 2.12
+  "Length" : 5.66,
+  "Width" : 4.16,
+  "Height" : 2.12
 },
 {
   "stone id" : "C3033-454A",
@@ -304,9 +304,9 @@
   "RATIO" : 1.42,
   "SHADE" : "NONE",
   "KEY" : "Feather",
-  "LENGTH" : 5.72,
-  "WIDTH" : 4.04,
-  "HEIGHT" : 2.48
+  "Length" : 5.72,
+  "Width" : 4.04,
+  "Height" : 2.48
 },
 {
   "stone id" : "C3033-480A",
@@ -332,9 +332,9 @@
   "RATIO" : 1.37,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 5.79,
-  "WIDTH" : 4.23,
-  "HEIGHT" : 2.22
+  "Length" : 5.79,
+  "Width" : 4.23,
+  "Height" : 2.22
 },
 {
   "stone id" : "C3003-404A",
@@ -360,9 +360,9 @@
   "RATIO" : 1.52,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 5.94,
-  "WIDTH" : 3.93,
-  "HEIGHT" : 2.49
+  "Length" : 5.94,
+  "Width" : 3.93,
+  "Height" : 2.49
 },
 {
   "stone id" : "C3013-61A",
@@ -388,9 +388,9 @@
   "RATIO" : 1.33,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 6.02,
-  "WIDTH" : 4.53,
-  "HEIGHT" : 2.3
+  "Length" : 6.02,
+  "Width" : 4.53,
+  "Height" : 2.3
 },
 {
   "stone id" : "F503-165A",
@@ -416,9 +416,9 @@
   "RATIO" : 1.78,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 6.06,
-  "WIDTH" : 3.4,
-  "HEIGHT" : 2.09
+  "Length" : 6.06,
+  "Width" : 3.4,
+  "Height" : 2.09
 },
 {
   "stone id" : "F310-270A",
@@ -444,9 +444,9 @@
   "RATIO" : 2.29,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 7.18,
-  "WIDTH" : 3.13,
-  "HEIGHT" : 1.61
+  "Length" : 7.18,
+  "Width" : 3.13,
+  "Height" : 1.61
 },
 {
   "stone id" : "C3017-92A",
@@ -472,9 +472,9 @@
   "RATIO" : 2.04,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 7.33,
-  "WIDTH" : 3.59,
-  "HEIGHT" : 2.2
+  "Length" : 7.33,
+  "Width" : 3.59,
+  "Height" : 2.2
 },
 {
   "stone id" : "C3009-44A",
@@ -500,9 +500,9 @@
   "RATIO" : 1.43,
   "SHADE" : "NONE",
   "KEY" : "Crystal, Pinpoint",
-  "LENGTH" : 6.67,
-  "WIDTH" : 4.65,
-  "HEIGHT" : 2.25
+  "Length" : 6.67,
+  "Width" : 4.65,
+  "Height" : 2.25
 },
 {
   "stone id" : "F503-129A",
@@ -528,9 +528,9 @@
   "RATIO" : 1.86,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 6.77,
-  "WIDTH" : 3.64,
-  "HEIGHT" : 2.07
+  "Length" : 6.77,
+  "Width" : 3.64,
+  "Height" : 2.07
 },
 {
   "stone id" : "F502-22A",
@@ -556,9 +556,9 @@
   "RATIO" : 1.53,
   "SHADE" : "NONE",
   "KEY" : "Feather",
-  "LENGTH" : 6.16,
-  "WIDTH" : 4.03,
-  "HEIGHT" : 2.36
+  "Length" : 6.16,
+  "Width" : 4.03,
+  "Height" : 2.36
 },
 {
   "stone id" : "C3003-445A",
@@ -584,9 +584,9 @@
   "RATIO" : 1.87,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 6.52,
-  "WIDTH" : 3.49,
-  "HEIGHT" : 1.94
+  "Length" : 6.52,
+  "Width" : 3.49,
+  "Height" : 1.94
 },
 {
   "stone id" : "F503-127A",
@@ -612,9 +612,9 @@
   "RATIO" : 1.4,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 6.74,
-  "WIDTH" : 4.82,
-  "HEIGHT" : 2.27
+  "Length" : 6.74,
+  "Width" : 4.82,
+  "Height" : 2.27
 },
 {
   "stone id" : "C3017-135A",
@@ -640,9 +640,9 @@
   "RATIO" : 2.15,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 7.02,
-  "WIDTH" : 3.26,
-  "HEIGHT" : 2.03
+  "Length" : 7.02,
+  "Width" : 3.26,
+  "Height" : 2.03
 },
 {
   "stone id" : "C3007-9B",
@@ -668,9 +668,9 @@
   "RATIO" : 3.37,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 8.38,
-  "WIDTH" : 2.49,
-  "HEIGHT" : 1.51
+  "Length" : 8.38,
+  "Width" : 2.49,
+  "Height" : 1.51
 },
 {
   "stone id" : "C3003-1A",
@@ -696,9 +696,9 @@
   "RATIO" : 2.26,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 8.96,
-  "WIDTH" : 3.96,
-  "HEIGHT" : 2.31
+  "Length" : 8.96,
+  "Width" : 3.96,
+  "Height" : 2.31
 },
 {
   "stone id" : "C3026-29A",
@@ -724,9 +724,9 @@
   "RATIO" : 1.97,
   "SHADE" : "NONE",
   "KEY" : "Feather, Indented Natural, Crystal",
-  "LENGTH" : 7.58,
-  "WIDTH" : 3.84,
-  "HEIGHT" : 1.97
+  "Length" : 7.58,
+  "Width" : 3.84,
+  "Height" : 1.97
 },
 {
   "stone id" : "C3108-1C",
@@ -752,9 +752,9 @@
   "RATIO" : 3.4,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 9.11,
-  "WIDTH" : 2.68,
-  "HEIGHT" : 1.39
+  "Length" : 9.11,
+  "Width" : 2.68,
+  "Height" : 1.39
 },
 {
   "stone id" : "C3003-138A",
@@ -780,9 +780,9 @@
   "RATIO" : 1.6,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 7.6,
-  "WIDTH" : 4.74,
-  "HEIGHT" : 2.65
+  "Length" : 7.6,
+  "Width" : 4.74,
+  "Height" : 2.65
 },
 {
   "stone id" : "C1428-8D",
@@ -808,9 +808,9 @@
   "RATIO" : 1.65,
   "SHADE" : "NONE",
   "KEY" : "Needle Feather Pinpoint",
-  "LENGTH" : 8.41,
-  "WIDTH" : 5.1,
-  "HEIGHT" : 3.06
+  "Length" : 8.41,
+  "Width" : 5.1,
+  "Height" : 3.06
 },
 {
   "stone id" : "F413-91A",
@@ -836,9 +836,9 @@
   "RATIO" : 2.29,
   "SHADE" : "NONE",
   "KEY" : "Feather",
-  "LENGTH" : 8.53,
-  "WIDTH" : 3.73,
-  "HEIGHT" : 2.3
+  "Length" : 8.53,
+  "Width" : 3.73,
+  "Height" : 2.3
 },
 {
   "stone id" : "C3102-1C",
@@ -864,9 +864,9 @@
   "RATIO" : 3.8,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 10.48,
-  "WIDTH" : 2.76,
-  "HEIGHT" : 1.52
+  "Length" : 10.48,
+  "Width" : 2.76,
+  "Height" : 1.52
 },
 {
   "stone id" : "C3035-5A",
@@ -892,9 +892,9 @@
   "RATIO" : 3.28,
   "SHADE" : "BROWN",
   "KEY" : "",
-  "LENGTH" : 13.56,
-  "WIDTH" : 4.14,
-  "HEIGHT" : 2
+  "Length" : 13.56,
+  "Width" : 4.14,
+  "Height" : 2
 },
 {
   "stone id" : "C3027-14A",
@@ -920,9 +920,9 @@
   "RATIO" : 1.36,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 5.3,
-  "WIDTH" : 3.91,
-  "HEIGHT" : 2.54
+  "Length" : 5.3,
+  "Width" : 3.91,
+  "Height" : 2.54
 },
 {
   "stone id" : "C1534-1G",
@@ -948,9 +948,9 @@
   "RATIO" : 3.91,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 14.15,
-  "WIDTH" : 3.62,
-  "HEIGHT" : 1.34
+  "Length" : 14.15,
+  "Width" : 3.62,
+  "Height" : 1.34
 },
 {
   "stone id" : "C2212-276A",
@@ -976,9 +976,9 @@
   "RATIO" : 1.32,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 4.47,
-  "WIDTH" : 3.39,
-  "HEIGHT" : 2.13
+  "Length" : 4.47,
+  "Width" : 3.39,
+  "Height" : 2.13
 },
 {
   "stone id" : "F409-118A",
@@ -1004,9 +1004,9 @@
   "RATIO" : 1.52,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 4.82,
-  "WIDTH" : 3.18,
-  "HEIGHT" : 1.87
+  "Length" : 4.82,
+  "Width" : 3.18,
+  "Height" : 1.87
 },
 {
   "stone id" : "C3003-175B",
@@ -1032,9 +1032,9 @@
   "RATIO" : 3.28,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 5.7,
-  "WIDTH" : 1.74,
-  "HEIGHT" : 0.96
+  "Length" : 5.7,
+  "Width" : 1.74,
+  "Height" : 0.96
 },
 {
   "stone id" : "F146-81A",
@@ -1060,9 +1060,9 @@
   "RATIO" : 1.57,
   "SHADE" : "NONE",
   "KEY" : "Minor Details of Polish",
-  "LENGTH" : 5.54,
-  "WIDTH" : 3.53,
-  "HEIGHT" : 1.85
+  "Length" : 5.54,
+  "Width" : 3.53,
+  "Height" : 1.85
 },
 {
   "stone id" : "C3025-141B",
@@ -1088,9 +1088,9 @@
   "RATIO" : 1.62,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 5.64,
-  "WIDTH" : 3.49,
-  "HEIGHT" : 2.13
+  "Length" : 5.64,
+  "Width" : 3.49,
+  "Height" : 2.13
 },
 {
   "stone id" : "C3025-66A",
@@ -1116,9 +1116,9 @@
   "RATIO" : 1.27,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 5.67,
-  "WIDTH" : 4.47,
-  "HEIGHT" : 2.6
+  "Length" : 5.67,
+  "Width" : 4.47,
+  "Height" : 2.6
 },
 {
   "stone id" : "F310-174A",
@@ -1144,9 +1144,9 @@
   "RATIO" : 2.1,
   "SHADE" : "NONE",
   "KEY" : "Chip",
-  "LENGTH" : 7.05,
-  "WIDTH" : 3.35,
-  "HEIGHT" : 1.82
+  "Length" : 7.05,
+  "Width" : 3.35,
+  "Height" : 1.82
 },
 {
   "stone id" : "F502-57A",
@@ -1172,9 +1172,9 @@
   "RATIO" : 1.63,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 6.1,
-  "WIDTH" : 3.74,
-  "HEIGHT" : 2.14
+  "Length" : 6.1,
+  "Width" : 3.74,
+  "Height" : 2.14
 },
 {
   "stone id" : "C3027-63A",
@@ -1200,9 +1200,9 @@
   "RATIO" : 2.24,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 7.54,
-  "WIDTH" : 3.36,
-  "HEIGHT" : 1.71
+  "Length" : 7.54,
+  "Width" : 3.36,
+  "Height" : 1.71
 },
 {
   "stone id" : "F502-29B",
@@ -1228,9 +1228,9 @@
   "RATIO" : 1.98,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 5.83,
-  "WIDTH" : 2.95,
-  "HEIGHT" : 1.76
+  "Length" : 5.83,
+  "Width" : 2.95,
+  "Height" : 1.76
 },
 {
   "stone id" : "F503-132A",
@@ -1256,9 +1256,9 @@
   "RATIO" : 1.76,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 6.14,
-  "WIDTH" : 3.49,
-  "HEIGHT" : 2.1
+  "Length" : 6.14,
+  "Width" : 3.49,
+  "Height" : 2.1
 },
 {
   "stone id" : "F503-81A",
@@ -1284,9 +1284,9 @@
   "RATIO" : 1.58,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 6.12,
-  "WIDTH" : 3.87,
-  "HEIGHT" : 2.41
+  "Length" : 6.12,
+  "Width" : 3.87,
+  "Height" : 2.41
 },
 {
   "stone id" : "F503-137A",
@@ -1312,9 +1312,9 @@
   "RATIO" : 1.4,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 6.15,
-  "WIDTH" : 4.39,
-  "HEIGHT" : 2.14
+  "Length" : 6.15,
+  "Width" : 4.39,
+  "Height" : 2.14
 },
 {
   "stone id" : "F411-752A",
@@ -1340,9 +1340,9 @@
   "RATIO" : 1.6,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 6.33,
-  "WIDTH" : 3.93,
-  "HEIGHT" : 1.77
+  "Length" : 6.33,
+  "Width" : 3.93,
+  "Height" : 1.77
 },
 {
   "stone id" : "F503-135A",
@@ -1368,9 +1368,9 @@
   "RATIO" : 1.69,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 7.15,
-  "WIDTH" : 4.23,
-  "HEIGHT" : 2.17
+  "Length" : 7.15,
+  "Width" : 4.23,
+  "Height" : 2.17
 },
 {
   "stone id" : "C3002-12B",
@@ -1396,9 +1396,9 @@
   "RATIO" : 1.59,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 6.42,
-  "WIDTH" : 4.05,
-  "HEIGHT" : 2.4
+  "Length" : 6.42,
+  "Width" : 4.05,
+  "Height" : 2.4
 },
 {
   "stone id" : "C3026-128B",
@@ -1424,9 +1424,9 @@
   "RATIO" : 1.64,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 6.45,
-  "WIDTH" : 3.93,
-  "HEIGHT" : 2.09
+  "Length" : 6.45,
+  "Width" : 3.93,
+  "Height" : 2.09
 },
 {
   "stone id" : "C3033-485A",
@@ -1452,9 +1452,9 @@
   "RATIO" : 1.63,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 6.55,
-  "WIDTH" : 4.03,
-  "HEIGHT" : 2.28
+  "Length" : 6.55,
+  "Width" : 4.03,
+  "Height" : 2.28
 },
 {
   "stone id" : "C3018-72A",
@@ -1480,9 +1480,9 @@
   "RATIO" : 2.37,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 8.23,
-  "WIDTH" : 3.47,
-  "HEIGHT" : 1.92
+  "Length" : 8.23,
+  "Width" : 3.47,
+  "Height" : 1.92
 },
 {
   "stone id" : "F503-114A",
@@ -1508,9 +1508,9 @@
   "RATIO" : 2.82,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 8.31,
-  "WIDTH" : 2.95,
-  "HEIGHT" : 1.43
+  "Length" : 8.31,
+  "Width" : 2.95,
+  "Height" : 1.43
 },
 {
   "stone id" : "C3009-78A",
@@ -1536,9 +1536,9 @@
   "RATIO" : 2.1,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 7.42,
-  "WIDTH" : 3.53,
-  "HEIGHT" : 1.95
+  "Length" : 7.42,
+  "Width" : 3.53,
+  "Height" : 1.95
 },
 {
   "stone id" : "C3003-400A",
@@ -1564,9 +1564,9 @@
   "RATIO" : 2.21,
   "SHADE" : "NONE",
   "KEY" : "Pinpoint, Cavity",
-  "LENGTH" : 7.84,
-  "WIDTH" : 3.54,
-  "HEIGHT" : 1.58
+  "Length" : 7.84,
+  "Width" : 3.54,
+  "Height" : 1.58
 },
 {
   "stone id" : "C3027-95A",
@@ -1592,9 +1592,9 @@
   "RATIO" : 1.43,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 7,
-  "WIDTH" : 4.88,
-  "HEIGHT" : 3.15
+  "Length" : 7,
+  "Width" : 4.88,
+  "Height" : 3.15
 },
 {
   "stone id" : "C3009-66A",
@@ -1620,9 +1620,9 @@
   "RATIO" : 1.73,
   "SHADE" : "NONE",
   "KEY" : "Feather, Natural",
-  "LENGTH" : 7.3,
-  "WIDTH" : 4.22,
-  "HEIGHT" : 2.11
+  "Length" : 7.3,
+  "Width" : 4.22,
+  "Height" : 2.11
 },
 {
   "stone id" : "C3017-57A",
@@ -1648,9 +1648,9 @@
   "RATIO" : 1.86,
   "SHADE" : "NONE",
   "KEY" : "Feather, Cavity, Indented Natural",
-  "LENGTH" : 7.36,
-  "WIDTH" : 3.95,
-  "HEIGHT" : 2.64
+  "Length" : 7.36,
+  "Width" : 3.95,
+  "Height" : 2.64
 },
 {
   "stone id" : "C3003-105A",
@@ -1676,9 +1676,9 @@
   "RATIO" : 1.85,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 7.46,
-  "WIDTH" : 4.04,
-  "HEIGHT" : 2.38
+  "Length" : 7.46,
+  "Width" : 4.04,
+  "Height" : 2.38
 },
 {
   "stone id" : "C3019-157A",
@@ -1704,9 +1704,9 @@
   "RATIO" : 3.01,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 8.6,
-  "WIDTH" : 2.86,
-  "HEIGHT" : 1.8
+  "Length" : 8.6,
+  "Width" : 2.86,
+  "Height" : 1.8
 },
 {
   "stone id" : "C3025-117A",
@@ -1732,9 +1732,9 @@
   "RATIO" : 1.49,
   "SHADE" : "BROWN",
   "KEY" : "Indented Natural",
-  "LENGTH" : 7.47,
-  "WIDTH" : 5.03,
-  "HEIGHT" : 2.7
+  "Length" : 7.47,
+  "Width" : 5.03,
+  "Height" : 2.7
 },
 {
   "stone id" : "C2042-5B",
@@ -1760,9 +1760,9 @@
   "RATIO" : 2.14,
   "SHADE" : "NONE",
   "KEY" : "Feather",
-  "LENGTH" : 7.48,
-  "WIDTH" : 3.49,
-  "HEIGHT" : 1.51
+  "Length" : 7.48,
+  "Width" : 3.49,
+  "Height" : 1.51
 },
 {
   "stone id" : "F413-214A",
@@ -1788,9 +1788,9 @@
   "RATIO" : 2.94,
   "SHADE" : "NONE",
   "KEY" : "Twinning Wisp, Feather",
-  "LENGTH" : 8.97,
-  "WIDTH" : 3.05,
-  "HEIGHT" : 1.62
+  "Length" : 8.97,
+  "Width" : 3.05,
+  "Height" : 1.62
 },
 {
   "stone id" : "F401-46A",
@@ -1816,9 +1816,9 @@
   "RATIO" : 1.9,
   "SHADE" : "NONE",
   "KEY" : "Crystal, Cavity, Feather",
-  "LENGTH" : 8.99,
-  "WIDTH" : 4.74,
-  "HEIGHT" : 2.18
+  "Length" : 8.99,
+  "Width" : 4.74,
+  "Height" : 2.18
 },
 {
   "stone id" : "F404-3A",
@@ -1844,9 +1844,9 @@
   "RATIO" : 1.95,
   "SHADE" : "NONE",
   "KEY" : "Feather, Knot, Cloud",
-  "LENGTH" : 7.63,
-  "WIDTH" : 3.91,
-  "HEIGHT" : 2.62
+  "Length" : 7.63,
+  "Width" : 3.91,
+  "Height" : 2.62
 },
 {
   "stone id" : "C3019-98A",
@@ -1872,9 +1872,9 @@
   "RATIO" : 1.5,
   "SHADE" : "NONE",
   "KEY" : "Cloud, Crystal, Feather, Indented Natural",
-  "LENGTH" : 7.8,
-  "WIDTH" : 5.21,
-  "HEIGHT" : 2.53
+  "Length" : 7.8,
+  "Width" : 5.21,
+  "Height" : 2.53
 },
 {
   "stone id" : "C3002-6C",
@@ -1900,9 +1900,9 @@
   "RATIO" : 1.93,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 8.08,
-  "WIDTH" : 4.19,
-  "HEIGHT" : 2.68
+  "Length" : 8.08,
+  "Width" : 4.19,
+  "Height" : 2.68
 },
 {
   "stone id" : "H23-129A",
@@ -1928,9 +1928,9 @@
   "RATIO" : 2.88,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 9.72,
-  "WIDTH" : 3.33,
-  "HEIGHT" : 1.97
+  "Length" : 9.72,
+  "Width" : 3.33,
+  "Height" : 1.97
 },
 {
   "stone id" : "C3009-100A",
@@ -1956,9 +1956,9 @@
   "RATIO" : 2.1,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 8.09,
-  "WIDTH" : 3.86,
-  "HEIGHT" : 2.44
+  "Length" : 8.09,
+  "Width" : 3.86,
+  "Height" : 2.44
 },
 {
   "stone id" : "C3019-149A",
@@ -1984,9 +1984,9 @@
   "RATIO" : 1.82,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 8.36,
-  "WIDTH" : 4.59,
-  "HEIGHT" : 2.75
+  "Length" : 8.36,
+  "Width" : 4.59,
+  "Height" : 2.75
 },
 {
   "stone id" : "C3006-18A",
@@ -2012,9 +2012,9 @@
   "RATIO" : 1.66,
   "SHADE" : "NONE",
   "KEY" : "Cloud, Feather, Cavity",
-  "LENGTH" : 8.56,
-  "WIDTH" : 5.17,
-  "HEIGHT" : 2.84
+  "Length" : 8.56,
+  "Width" : 5.17,
+  "Height" : 2.84
 },
 {
   "stone id" : "C3030-3D",
@@ -2040,9 +2040,9 @@
   "RATIO" : 3.76,
   "SHADE" : "NONE",
   "KEY" : "Cavity, Feather",
-  "LENGTH" : 9.75,
-  "WIDTH" : 2.59,
-  "HEIGHT" : 1.56
+  "Length" : 9.75,
+  "Width" : 2.59,
+  "Height" : 1.56
 },
 {
   "stone id" : "F146-423A",
@@ -2068,7 +2068,7 @@
   "RATIO" : 1.95,
   "SHADE" : "NONE",
   "KEY" : "",
-  "LENGTH" : 9.35,
-  "WIDTH" : 4.8,
-  "HEIGHT" : 3.13
+  "Length" : 9.35,
+  "Width" : 4.8,
+  "Height" : 3.13
 }]}
